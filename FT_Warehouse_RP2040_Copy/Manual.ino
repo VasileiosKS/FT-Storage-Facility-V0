@@ -1,0 +1,10 @@
+void SafeMode(){
+
+}
+
+
+
+
+void FreeMode(){
+  
+}
