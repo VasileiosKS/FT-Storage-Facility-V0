@@ -1,6 +1,7 @@
-//
-//
-//
+//Disclaimer: Portions of the following code were AI generated.
+//By combining the Pico with an AS5600 magnetic encoder, position feedback and control were implemented via a PI controller, allowing the system to track its position in millimeters
+//Precision is affected by the plastic worm screw and bent metal linear rods. 
+
 //---- Mechanical Specs ---
 const float MM_PER_ROTATION = 4.712; 
 const float STEPS_PER_MM = 4096.0 / MM_PER_ROTATION;
