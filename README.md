@@ -1,4 +1,5 @@
 # FT-Warehouse-V0
+![alt text](https://github.com/VasileiosKS/FT-Colour-Sorting-Station-and-Warehouse-Archived/blob/main/image.png)
 
 # Overview:
 Although this was the first PCB i designed and manufactured, its fully functional though not without its defects. Most of the issues encountered are detailed below.
@@ -6,6 +7,9 @@ Although this was the first PCB i designed and manufactured, its fully functiona
 ISSUES:
   - Voltage Regulation: No onboard voltage regulators were included, limiting the power that can be supplied on the 5V and 3.3V rails.
   - Footprint Error: An incorrect footprint was used for the TB6612FNG motor driver.
+  -
+  -
+  -
   -
 
 # Disclaimers:
