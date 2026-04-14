@@ -5,20 +5,18 @@
 Although this was the first PCB i designed and manufactured, its functional though not without its challenges. Most of the issues encountered are detailed below.
 
 
-
-
 # PCB Design
 Version O
 PCB Schematics             |  PCB 3d Rendering
 :-------------------------:|:-------------------------:
 ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_Schematics.PNG)  |  ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_PCB.PNG)
 
-
-# ISSUES:  - Power: No onboard voltage regulators were included, limiting the power that can be supplied on the 5V and 3.3V rails.
+# ISSUES:  
+  - Power: No onboard voltage regulators were included, limiting the power that can be supplied on the 5V and 3.3V rails.
   - Footprint Error: An incorrect footprint was used for the TB6612FNG motor driver.
-  - Connector Spacing & GPIOs: Not enough GPIOs were broken out, as a result permanent wires had to be soldered to the Pico.
+  - Connector & GPIOs: Not enough GPIOs were broken out, as a result permanent wires had to be soldered to the Pico.
     Additionaly the FT connector pads are spaced too tight.  
-  - PCB Size: The PCB dimensions far exceeded the limits, preventing it from fitting into its case.
+  - PCB Size: The PCB dimensions far exceeded the allowed dimensions, preventing it from fitting into its case.
   - I2C Issues: Certain pins belonging to non I2C devices were tied to I2C0 bus. Also could not get the AS5600 to work on I2C1 bus.
 
 # Disclaimers:
