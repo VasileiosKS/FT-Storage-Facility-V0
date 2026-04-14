@@ -4,6 +4,16 @@
 # Overview:
 Although this was the first PCB i designed and manufactured, its functional though not without its challenges. Most of the issues encountered are detailed below.
 
+
+
+
+# PCB Design
+Version O
+|-----------|----------|
+|![alt text](https://github.com/VasileiosKS/FT-Colour-Sorting-Station-and-Warehouse-Archived/blob/main/image.png)|![alt text](https://github.com/VasileiosKS/FT-Colour-Sorting-Station-and-Warehouse-Archived/blob/main/image.png)|
+
+
+
 # ISSUES:
   - Power: No onboard voltage regulators were included, limiting the power that can be supplied on the 5V and 3.3V rails.
   - Footprint Error: An incorrect footprint was used for the TB6612FNG motor driver.
