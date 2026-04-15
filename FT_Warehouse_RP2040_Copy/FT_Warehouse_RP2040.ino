@@ -2,11 +2,9 @@
 #include <SPI.h>
 #include <Wire.h>
 #include <Servo.h> 
-#include <WiFi.h>
 #include <PubSubClient.h>
 //------------------------------------------------------------//        
 //Function Declaration to avoid errors that might show up during compilation
-void blank();
 void Safe_Mode();
 void FreeMode();
 void ASerialCom();
@@ -21,7 +19,6 @@ void Arm_Retract();
 void Lift_Height();
 void SafeMode();
 void FreeMode();
-void Wireless();
 void Move_Plat_to_Pos();
 void Motor_Lift();
 void Motor_Platform();
@@ -75,7 +72,6 @@ void setup() {
   Wire.setSCL(5);
   Wire.begin();
   Wire.setClock(400000);
-  Wireless(); 
   pinMode(Mod_Hall_Lift, INPUT_PULLUP);
   pinMode(Mod_Plat_Home, INPUT_PULLUP);
   pinMode(Mod_Lift_0, INPUT_PULLUP);
