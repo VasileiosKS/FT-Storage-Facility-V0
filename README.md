@@ -1,5 +1,5 @@
 # FT-Warehouse-V0
-![alt text](https://github.com/VasileiosKS/FT-Colour-Sorting-Station-and-Warehouse-Archived/blob/main/image.png)
+![alt text](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_Storage_Top-Down-1.jpg)
 
 # Overview:
 Although this was the first PCB i designed and manufactured, its functional though not without its challenges. Most of the issues encountered are detailed below.
@@ -9,7 +9,12 @@ Although this was the first PCB i designed and manufactured, its functional thou
 Version O
 PCB Schematics             |  PCB 3d Rendering
 :-------------------------:|:-------------------------:
-![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_Schematics.PNG)  |  ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_PCB.PNG)
+![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_Schematics.PNG)  |  ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_PCB_CAD.PNG)
+:-------------------------:|:-------------------------:
+Assembled PCB
+:-------------------------:|:-------------------------:
+![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_PCB.jpg)
+
 
 # ISSUES:  
   - Power: No onboard voltage regulators were included, limiting the power that can be supplied on the 5V and 3.3V rails.
