@@ -35,7 +35,7 @@ PCB Schematics             |  PCB 3d Rendering         |
 
 # PCB Design: Version 2 (Final Version)
 
-Rather than using through-hole components that consume excessive space, this final iteration adopts surface-mount technology to achieve a more compact design.
+Rather than using through-hole components that consume excessive space, this final iteration adopts surface-mount components to achieve a more compact design. Also, i recently aquired a hot air station making it a bit easier to work with those tiny components.
 
 # Overview:
 Although this was the first PCB i designed and manufactured, its functional though not without its challenges. Most of the issues encountered are detailed below.
