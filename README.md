@@ -93,3 +93,24 @@ Although this was the first PCB i designed and manufactured, its functional thou
   - All designs and information under this project, are open-sourced, and no monetary gains are expected.
   - This project is **not affiliated** with Fischer Technik or any of its trademarks.
   - This document was personally written and reviewed for syntactical errors using AI language tools.
+    
+# External Links:
+   - 3D Parts:
+     - Made by other designers: 
+       - Gripper:
+           - Made by user: PHabermehl
+           - Link: https://www.thingiverse.com/thing:3419079
+       - AS5600 Holder:
+           - Made by user: juh
+           - Link: https://www.printables.com/model/858685-fischertechnik-i2c-as5600-white-pcb-contactless-ro
+       - Hall Effect Sensor holder:
+           - Made by user: juh
+           - Link: https://www.printables.com/model/356060-hall-sensor-for-fischertechnik
+       - Worm nut:
+           - Made by user: psterk
+           - Link: https://www.thingiverse.com/thing:4596745
+       - Worm screw:
+           - Made by user: thomasdr
+           - Link: https://www.thingiverse.com/thing:2156787 
+     - Made by me:
+
