@@ -47,7 +47,7 @@ Ultimately, i went for Node-Red, a tool i am familiar with. Using the nodes ment
       <p align="center">
         <img src="https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/nodered-ui.PNG" alt="Alt Text" style="width:50%; height:auto;">  
       </p>
- - Nodes that were used:
+  - Nodes Used:
        ```
        - node-red-contrib-pythonshell
        - node-red-contrib-ui-joystick
