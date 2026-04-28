@@ -59,19 +59,24 @@ Ultimately, i went for Node-Red, a tool i am familiar with. Using the nodes ment
 
 # PCB Design: Version 0
 
-PCB Schematics             |  PCB 3d Rendering         | Assembled PCB
+PCB Schematics             |  PCB 3D Rendering         | Assembled PCB
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_Schematics.PNG)  |  ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_PCB_CAD.PNG) | <img src="https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_PCB.jpg" alt="Alt Text" style="width:80%; height:auto;"> 
 
 # PCB Design: Version 1
 
-PCB Schematics             |  PCB 3d Rendering         |
+PCB Schematics             |  PCB 3D Rendering         |
 :-------------------------:|:-------------------------:|
 ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V1_Schematics.PNG)  |  ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V1_PCB_CAD.PNG) | 
 
 # PCB Design: Version 2 (Final Version)
 
 Rather than using through-hole components that consume excessive space, this final iteration adopts surface-mount components to achieve a more compact design. Also, i recently aquired a hot air station making it a bit easier to work with those tiny components.
+
+PCB Schematics             |  PCB 3D Rendering         | Assembled PCB
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V2_Schematics.PNG)  |  ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V2_PCB_CAD.PNG) | 
+
 
 # Overview:
 Although this was the first PCB i designed and manufactured, its functional though not without its challenges. Most of the issues encountered are detailed below.
