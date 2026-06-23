@@ -58,9 +58,9 @@ PCB Schematics             |  PCB 3D Rendering         | Assembled PCB
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V1_Schematics.PNG)   |   ![](https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V1_PCB_CAD.PNG) | <img src="https://github.com/VasileiosKS/FT-Storage-Facility-V0/blob/main/images/FT_RP2040_V0_PCB.jpg" alt="Alt Text" style="width:80%; height:auto;"> 
 
-# UPDATE: (23/6/2026)
+# 23/6/2026 UPDATE:
 Information regarding the PCB development, Gerber files, project progress, and issues encountered during designed and production have been migrated to a new repository.
- **FT_CON**(https://github.com/VasileiosKS/FT_CON)
+ **FT_CON** (https://github.com/VasileiosKS/FT_CON)
 
 # Conclusion
 Through this project, i successfully moved from through-hole components to SMD and used professional PCB manufacturing services to produce my custom designed. 
